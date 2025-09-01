@@ -1,0 +1,8 @@
+.message-container { display: flex; margin-bottom: 1rem; padding: 2px 0; }
+.message-avatar { width: 40px; height: 40px; border-radius: 50%; background-color: var(--brand-experiment); margin-right: 16px; flex-shrink: 0; }
+.message-body { display: flex; flex-direction: column; }
+.message-header { display: flex; align-items: center; margin-bottom: 4px; }
+.message-author { color: var(--header-primary); font-weight: 500; margin-right: 8px; }
+.message-timestamp { color: var(--text-muted); font-size: 12px; }
+.message-content { color: var(--text-normal); line-height: 1.375rem; }
+.notification { color: var(--text-muted); font-style: italic; font-size: 13px; padding-left: 56px; margin-bottom: 1rem; }

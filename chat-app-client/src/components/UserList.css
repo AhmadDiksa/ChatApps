@@ -1,0 +1,5 @@
+.user-list-container { width: 240px; background-color: var(--background-secondary); padding: 16px 8px; flex-shrink: 0; }
+.user-list-header { color: var(--text-muted); font-size: 12px; font-weight: 600; margin-bottom: 8px; padding: 0 8px; }
+.user-list-container ul { list-style: none; padding: 0; margin: 0; }
+.user-list-item { display: flex; align-items: center; padding: 8px; border-radius: 4px; margin-bottom: 4px; color: var(--interactive-normal); }
+.user-avatar { width: 32px; height: 32px; background-color: var(--brand-experiment); border-radius: 50%; margin-right: 12px; }
